@@ -15,3 +15,6 @@
 - **Gas Station:**
 - - problem: https://leetcode.com/problems/gas-station?envType=problem-list-v2&envId=greedy
 - - submission: https://leetcode.com/problems/gas-station/submissions/1564977712
+- **Permutations:**
+- - problem: https://leetcode.com/problems/permutations
+- - submission: https://leetcode.com/problems/permutations/submissions/1567476371
