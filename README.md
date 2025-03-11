@@ -9,6 +9,9 @@
 - **Merge Two Sorted Lists:** 
 - - problem: https://leetcode.com/problems/merge-two-sorted-lists
 - - submission: https://leetcode.com/problems/merge-two-sorted-lists/submissions/1562786623
+- **Partition List:**
+- - problem: https://leetcode.com/problems/partition-list
+- - submission: https://leetcode.com/problems/partition-list/submissions/1570570514
 - **Longest Palindromic Substring:** 
 - - problem: https://leetcode.com/problems/longest-palindromic-substring
 - - submission: https://leetcode.com/problems/longest-palindromic-substring/submissions/1558624761
