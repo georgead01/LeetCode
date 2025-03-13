@@ -24,3 +24,6 @@
 - **Permutations:**
 - - problem: https://leetcode.com/problems/permutations
 - - submission: https://leetcode.com/problems/permutations/submissions/1567476371
+- **Divide Players Into Teams of Equal Skill:**
+- - problem: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+- - submission: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/1572621693
