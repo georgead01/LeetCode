@@ -27,3 +27,6 @@
 - **Divide Players Into Teams of Equal Skill:**
 - - problem: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
 - - submission: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/1572621693
+- **Combine Two Tables:**
+- - problem: https://leetcode.com/problems/combine-two-tables
+- - submission: https://leetcode.com/problems/combine-two-tables/submissions/1575716714
