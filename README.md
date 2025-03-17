@@ -33,3 +33,6 @@
 - **Employees Earning More Than Their Managers:**
 - - problem: https://leetcode.com/problems/employees-earning-more-than-their-managers
 - - submission: https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/1576857238
+- **Duplicate Emails:**
+- - problem: https://leetcode.com/problems/duplicate-emails
+- - submission: https://leetcode.com/problems/duplicate-emails/submissions/1576865553
