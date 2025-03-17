@@ -6,6 +6,9 @@
 - **Dungeon Game:**
 - - problem: https://leetcode.com/problems/dungeon-game
 - - submission: https://leetcode.com/problems/dungeon-game/submissions/1577081699
+- **Trips and Users:**
+- - problem: https://leetcode.com/problems/trips-and-users
+- - submission: https://leetcode.com/problems/trips-and-users/submissions/1577197957
 - **Rotate Image:**
 - - problem: https://leetcode.com/problems/rotate-image
 - - submission: https://leetcode.com/problems/rotate-image/submissions/1571634493
