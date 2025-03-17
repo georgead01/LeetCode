@@ -30,3 +30,6 @@
 - **Combine Two Tables:**
 - - problem: https://leetcode.com/problems/combine-two-tables
 - - submission: https://leetcode.com/problems/combine-two-tables/submissions/1575716714
+- **Employees Earning More Than Their Managers:**
+- - problem: https://leetcode.com/problems/employees-earning-more-than-their-managers
+- - submission: https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/1576857238
