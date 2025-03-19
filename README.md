@@ -45,3 +45,6 @@
 - **Customers Who Never Order:**
 - - problem: https://leetcode.com/problems/customers-who-never-order
 - - submission: https://leetcode.com/problems/customers-who-never-order/submissions/1576881620
+- **Game Analysis I:**
+- - problem: https://leetcode.com/problems/game-play-analysis-i
+- - submission: https://leetcode.com/problems/game-play-analysis-i/submissions/1579467406
