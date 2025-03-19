@@ -48,3 +48,6 @@
 - **Game Analysis I:**
 - - problem: https://leetcode.com/problems/game-play-analysis-i
 - - submission: https://leetcode.com/problems/game-play-analysis-i/submissions/1579467406
+- **Department Top Three Salaries:**
+- - problem: https://leetcode.com/problems/department-top-three-salaries
+- - submission: https://leetcode.com/problems/department-top-three-salaries/submissions/1579591534
