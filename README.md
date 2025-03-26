@@ -51,3 +51,6 @@
 - **Department Top Three Salaries:**
 - - problem: https://leetcode.com/problems/department-top-three-salaries
 - - submission: https://leetcode.com/problems/department-top-three-salaries/submissions/1579591534
+- **Nth Highest Salary:**
+- - problem: https://leetcode.com/problems/nth-highest-salary
+- - submission: https://leetcode.com/problems/nth-highest-salary/submissions/1586911481
