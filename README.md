@@ -54,3 +54,6 @@
 - **Nth Highest Salary:**
 - - problem: https://leetcode.com/problems/nth-highest-salary
 - - submission: https://leetcode.com/problems/nth-highest-salary/submissions/1586911481
+- **Rank Scores:**
+- - problem: https://leetcode.com/problems/rank-scores
+- - submission: https://leetcode.com/problems/rank-scores/submissions/1586922151
