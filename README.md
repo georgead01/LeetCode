@@ -36,6 +36,9 @@
 - **3Sum Closest:**
 - - problem: https://leetcode.com/problems/3sum-closest
 - - submission: https://leetcode.com/problems/3sum-closest/submissions/1593792562
+- **Valid Sudoku:**
+- - problem: https://leetcode.com/problems/valid-sudoku
+- - submission: https://leetcode.com/problems/valid-sudoku/submissions/1593808890
 - **Combine Two Tables:**
 - - problem: https://leetcode.com/problems/combine-two-tables
 - - submission: https://leetcode.com/problems/combine-two-tables/submissions/1575716714
