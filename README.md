@@ -33,6 +33,9 @@
 - **Divide Players Into Teams of Equal Skill:**
 - - problem: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
 - - submission: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/1572621693
+- **3Sum Closest:**
+- - problem: https://leetcode.com/problems/3sum-closest
+- - submission: https://leetcode.com/problems/3sum-closest/submissions/1593792562
 - **Combine Two Tables:**
 - - problem: https://leetcode.com/problems/combine-two-tables
 - - submission: https://leetcode.com/problems/combine-two-tables/submissions/1575716714
